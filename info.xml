@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<info>
+   <DestBasePath>C:\Users\XS\Desktop\group2</DestBasePath>
+   <SourceBasePath>E:\PersonalCode\DNA\徐帅\AFS Excel 文件</SourceBasePath>
+   <MatFilePath>E:\DNA\CTrap\</MatFilePath>
+   <Para>
+      <F_StageMode>0</F_StageMode>
+      <WLC_Model_Index>2</WLC_Model_Index>
+      <F_StandardDataMaxValue>60</F_StandardDataMaxValue>
+   </Para>
+    <WLC_DNA_1>
+      <L0>1000</L0>
+      <Lp>41.2</Lp>
+   </WLC_DNA_1>
+   <WLC_RNA_1>
+      <L0>223.02</L0>
+      <Lp>2</Lp>
+   </WLC_RNA_1>
+  <WLC_DNA_2>
+      <L0>1000</L0>
+      <Lp>41.2</Lp>
+      <K>1296</K>
+   </WLC_DNA_2>
+   <WLC_RNA_2>
+      <L0>0</L0>
+      <Lp>41.2</Lp>
+      <K>1296</K>
+   </WLC_RNA_2>
+      <WLC_DNA_3>
+      <L0>1000</L0>
+      <Lp>41.2</Lp>
+      <K>1246</K>
+   </WLC_DNA_3>
+   <WLC_RNA_3>
+      <L0>2</L0>
+      <Lp>2</Lp>
+      <K>300</K>
+   </WLC_RNA_3>
+</info>
